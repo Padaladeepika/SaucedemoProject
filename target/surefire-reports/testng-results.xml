@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5760" started-at="2022-04-07T07:46:44 UTC" finished-at="2022-04-07T07:46:50 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5760" started-at="2022-04-07T07:46:44 UTC" finished-at="2022-04-07T07:46:50 UTC">
+      <class name="testcases.SaucedemoLoginTest">
+        <test-method status="PASS" signature="DataSetUP()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="DataSetUP" is-config="true" duration-ms="523" started-at="2022-04-07T07:46:44 UTC" finished-at="2022-04-07T07:46:45 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSetUP -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="SetUp" is-config="true" duration-ms="1078" started-at="2022-04-07T07:46:45 UTC" finished-at="2022-04-07T07:46:46 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SaucedemoLoginTest.ExternalDataTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ExternalDataTest()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="ExternalDataTest" duration-ms="324" started-at="2022-04-07T07:46:46 UTC" finished-at="2022-04-07T07:46:46 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExternalDataTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="TearDown" is-config="true" duration-ms="69" started-at="2022-04-07T07:46:46 UTC" finished-at="2022-04-07T07:46:46 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="SetUp" is-config="true" duration-ms="752" started-at="2022-04-07T07:46:46 UTC" finished-at="2022-04-07T07:46:47 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SaucedemoLoginTest.LoginFailiureTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginFailiureTest()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="LoginFailiureTest" duration-ms="314" started-at="2022-04-07T07:46:47 UTC" finished-at="2022-04-07T07:46:47 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailiureTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="TearDown" is-config="true" duration-ms="70" started-at="2022-04-07T07:46:47 UTC" finished-at="2022-04-07T07:46:47 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="SetUp" is-config="true" duration-ms="834" started-at="2022-04-07T07:46:47 UTC" finished-at="2022-04-07T07:46:48 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SaucedemoLoginTest.LoginSuccessTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginSuccessTest()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="LoginSuccessTest" duration-ms="275" started-at="2022-04-07T07:46:48 UTC" finished-at="2022-04-07T07:46:48 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="TearDown" is-config="true" duration-ms="74" started-at="2022-04-07T07:46:48 UTC" finished-at="2022-04-07T07:46:49 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="SetUp" is-config="true" duration-ms="849" started-at="2022-04-07T07:46:49 UTC" finished-at="2022-04-07T07:46:49 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SaucedemoLoginTest.ParameterizedTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ParameterizedTest(java.lang.String,java.lang.String)[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="ParameterizedTest" duration-ms="279" started-at="2022-04-07T07:46:49 UTC" finished-at="2022-04-07T07:46:50 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParameterizedTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="TearDown" is-config="true" duration-ms="69" started-at="2022-04-07T07:46:50 UTC" finished-at="2022-04-07T07:46:50 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="DataTearDown()[pri:0, instance:testcases.SaucedemoLoginTest@34cd072c]" name="DataTearDown" is-config="true" duration-ms="220" started-at="2022-04-07T07:46:50 UTC" finished-at="2022-04-07T07:46:50 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataTearDown -->
+      </class> <!-- testcases.SaucedemoLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
